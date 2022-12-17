@@ -1,0 +1,4 @@
+#compiling and executing files
+*.exe 
+*.hi
+*.o
